@@ -1,4 +1,4 @@
-from coe_number.number_utils import is_prime_list
+from aie_code.number_utils import is_prime_list
 import unittest
 
 
