@@ -4,3 +4,6 @@ def is_prime_list(numbers):
             if num % n == 0:
                 return False
     return True
+
+
+print(is_prime_list([53]))
